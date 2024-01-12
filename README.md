@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Manindra
-- 
+👋 Hi, I’m @Manindra
